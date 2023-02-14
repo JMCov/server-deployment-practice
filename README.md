@@ -10,9 +10,9 @@ Basic API Server where we write some middleware and practice deployment
 
 ### Links and Resources
 
-- [GitHub Actions ci/cd](http://xyz.com)
-- Dev [back-end server url](https://d51-practice.onrender.com)
-- Prod [back-end server url](enterYourUrl.xyz)
+- [GitHub Actions ci/cd](https://github.com/JMCov/server-deployment-practice/actions)
+- Dev [back-end server url](https://server-deployment-practice-dev-0hmt.onrender.com/)
+- Prod [back-end server url](https://server-deployment-practice-prod-czdo.onrender.com/)
 
 ### Setup
 
@@ -34,8 +34,11 @@ not necessary for this lab, wait for tomorrow
 
 fill this in as you see fit
 - How do you run tests?
+npm test
 - Any tests of note?
+No
 - Describe any tests that you did not complete, skipped, etc
+N/A
 
 #### UML
 
